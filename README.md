@@ -1,5 +1,7 @@
 ATOM TOOL – All-in-One Web Utility Platform
 
+FULLSTACK DEVELOPER : OKA MAULANA
+
 ATOM TOOL adalah platform berbasis web yang menyediakan berbagai tools digital dalam satu tempat untuk memenuhi kebutuhan sehari-hari secara cepat, praktis, dan efisien. Aplikasi ini dirancang untuk menyederhanakan proses seperti konversi file, pengolahan gambar, hingga pembuatan QR code tanpa perlu instalasi tambahan.
 
 Dengan pendekatan modern pada desain dan performa, ATOM TOOL menghadirkan pengalaman pengguna yang ringan, responsif, dan intuitif di berbagai perangkat, baik desktop maupun mobile.
